@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/varldstoakartan/static/css/main.b8bacb9a.chunk.css",
-    "main.js": "/varldstoakartan/static/js/main.3dc87ff7.chunk.js",
-    "main.js.map": "/varldstoakartan/static/js/main.3dc87ff7.chunk.js.map",
+    "main.js": "/varldstoakartan/static/js/main.dfb9b1be.chunk.js",
+    "main.js.map": "/varldstoakartan/static/js/main.dfb9b1be.chunk.js.map",
     "runtime-main.js": "/varldstoakartan/static/js/runtime-main.8da98357.js",
     "runtime-main.js.map": "/varldstoakartan/static/js/runtime-main.8da98357.js.map",
     "static/js/2.b2b9ff0e.chunk.js": "/varldstoakartan/static/js/2.b2b9ff0e.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8da98357.js",
     "static/js/2.b2b9ff0e.chunk.js",
     "static/css/main.b8bacb9a.chunk.css",
-    "static/js/main.3dc87ff7.chunk.js"
+    "static/js/main.dfb9b1be.chunk.js"
   ]
 }
