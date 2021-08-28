@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Tabletop from "tabletop";
+import Papa from "tabletop";
 
 export default function ReadCsv() {
   const defaultPin = {
@@ -13,11 +13,21 @@ export default function ReadCsv() {
   const url = "https://docs.google.com/spreadsheets/d/1T1AFJ1kQPjp2BAxSrQyyr78ZogArOz6Q3IgqhNF4drI/edit?usp=sharing";
 
   useEffect(() => {
-    Tabletop.init({
-      key: url,
-      callback: showInfo,
-      simpleSheet: true
+    // Tabletop.init({
+    //   key: url,
+    //   callback: showInfo,
+    //   simpleSheet: true
+    // })
+    // Papa.parse('https://docs.google.com/spreadsheets/d/e/2PACX-1vRB4E_6RnpLP1wWMjqcwsUvotNATB8Np3OntlXb7066ULcAHI9oqqRhucltFifPTYNd7DRNRE56oTdt/pub?output=csv', {
+    Papa.parse(url, {
+      // download: true,
+      header: true,
+      complete: function(results) {
+        var data = results.data
+        console.log(data)
+      }
     })
+
       // .then(data => setData(data))
       // .catch(err => console.warn(err));
   }, []);
