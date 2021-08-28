@@ -1,0 +1,15 @@
+{
+  "short_name": "Toaletter utan gränser",
+  "name": "Toaletter utan gränser - världstoakartan",
+  "icons": [
+    {
+      "src": "TUG-logo.png",
+      "sizes": "45x42",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
