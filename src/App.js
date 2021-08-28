@@ -6,6 +6,7 @@ import ReadCsv from "./readCsv";
 function App() {
   let state = State();
 
+  console.log("hej2")
   // state.pinData = ReadCsv();
   state.pinData = [];
 
