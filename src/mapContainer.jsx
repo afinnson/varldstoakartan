@@ -13,6 +13,8 @@ const CreateMap = (pinData) => {
     lat: 0, lng: 90
   });
   
+  console.log("Hej")
+
   return (
      <LoadScript
        googleMapsApiKey='AIzaSyBMdTxuhXZq3bxueCOb8JubUZ-8rWWMcgM'>
