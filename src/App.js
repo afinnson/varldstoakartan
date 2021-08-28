@@ -6,8 +6,11 @@ import ReadCsv from "./readCsv";
 function App() {
   let state = State();
 
-  console.log("hej2")
-  // state.pinData = ReadCsv();
+  csv_data = ReadCsv();
+
+  console.log(csv_data);
+  // state.pinData = csv_data;
+
   state.pinData = [
     {
       lat: 0,

@@ -12,8 +12,6 @@ const CreateMap = (pinData) => {
   const [defaultCenter, setDefaultCenter] = useState({
     lat: 0, lng: 90
   });
-  
-  console.log("Hej")
 
   return (
      <LoadScript
