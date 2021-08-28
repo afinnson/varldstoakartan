@@ -6,7 +6,7 @@ import ReadCsv from "./readCsv";
 function App() {
   let state = State();
 
-  csv_data = ReadCsv();
+  let csv_data = ReadCsv();
 
   console.log(csv_data);
   // state.pinData = csv_data;
