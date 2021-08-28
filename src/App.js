@@ -8,7 +8,14 @@ function App() {
 
   console.log("hej2")
   // state.pinData = ReadCsv();
-  state.pinData = [];
+  state.pinData = [
+    {
+      lat: 0,
+      lng: 0,
+      img_href: "img_href",
+      name: "name"
+    }
+  ];
 
   return (
     <>
