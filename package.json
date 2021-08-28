@@ -1,6 +1,6 @@
 {
-  "homepage": "https://afinnson.github.io/TUG-map",
-  "name": "TUG-map",
+  "homepage": "https://afinnson.github.io/varldstoakartan",
+  "name": "varldstoakartan",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
