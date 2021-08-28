@@ -15,7 +15,7 @@ const CreateMap = (pinData) => {
   
   return (
      <LoadScript
-       googleMapsApiKey='thisIsNotTheKey'>
+       googleMapsApiKey='AIzaSyBMdTxuhXZq3bxueCOb8JubUZ-8rWWMcgM'>
         <GoogleMap
           mapContainerStyle={mapStyles}
           zoom={startZoom}
