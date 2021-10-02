@@ -42,6 +42,7 @@
     ]
   },
   "devDependencies": {
+    "g-sheets-api": "^2.1.2",
     "gh-pages": "^3.2.3"
   }
 }

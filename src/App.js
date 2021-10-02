@@ -1,23 +1,12 @@
 import './App.css';
 import CreateMap from './mapContainer';
 import State from './state';
-import ReadCsv from "./readCsv";
+import { pinData } from './pin_data'
 
 function App() {
   let state = State();
-  
-  // let csv_data = ReadCsv();
-  // console.log(csv_data);
-  // state.pinData = csv_data;
 
-  state.pinData = [
-    {
-      lat: 8.297367,
-      lng: 124.5983,
-      img_href: "https://lh6.googleusercontent.com/proxy/zHZG2IrqNvLs2I6qnnRCQMZBbEv9EGo19pp7yOXgY-y6oaKGNsIkq2T1JFHRkv5ntw",
-      name: "Langaon_1.0"
-    }
-  ];
+  state.pinData = pinData;
 
   return (
     <>
