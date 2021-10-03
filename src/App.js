@@ -8,13 +8,29 @@ function App() {
 
   state.pinData = pinData;
 
+  const ratio = 19.04;
+  const factor = 1.5;
+
   return (
     <>
     <div className="App">
       <header className="App-header">
-        <p>
-          Världstoakartan – Toaletter utan gränser
-        </p>
+        <div>
+          <a href="https://www.toaletterutangranser.se/">
+          <img
+            src={process.env.PUBLIC_URL + "/TUG_logo_with_text.png"}
+            alt="logo"
+            style={{
+              width:  factor * ratio + "rem",
+              height:  factor + "rem",
+              resizeMode:   "contain"
+            }}
+          />
+          </a>
+        </div>
+        {/* <div>
+          Världstoakartan
+        </div> */}
       </header>
     </div>
     {state.pinData.length ? 
@@ -36,6 +52,9 @@ function App() {
       Loading...
     </div>
     }
+    <div>
+      <footer className="App-footer"> © 2021 All Rights Reserved | Toaletter Utan Gränser </footer>
+    </div>
     </>
   );
 }

@@ -13,12 +13,12 @@ export default function Pins(pinData) {
   }, [pinData])
 
   const onSelect = item => {
-    setSelected(item);
     const currZoom = map.getZoom();
     if (currZoom < maxZoom) {
       map.setZoom(Math.min(currZoom + 3, maxZoom));
     }
     map.panTo({ lat: Number(item.lat), lng: Number(item.lng) })
+    setSelected(item);
   }
 
   return (
