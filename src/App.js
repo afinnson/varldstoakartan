@@ -2,6 +2,7 @@ import './App.css';
 import CreateMap from './mapContainer';
 import State from './state';
 import { pinData } from './pin_data'
+import { useState, useEffect } from 'react';
 
 function App() {
   let state = State();
@@ -10,6 +11,33 @@ function App() {
 
   const ratio = 19.04;
   const factor = 1.5;
+
+  function getWindowDimensions() {
+    const { innerWidth: width, innerHeight: height } = window;
+    return {
+      width,
+      height
+    };
+  }
+
+  function useWindowDimensions() {
+    const [windowDimensions, setWindowDimensions] = useState(getWindowDimensions());
+  
+    useEffect(() => {
+      function handleResize() {
+        setWindowDimensions(getWindowDimensions());
+      }
+  
+      window.addEventListener('resize', handleResize);
+      return () => window.removeEventListener('resize', handleResize);
+    }, []);
+  
+    return windowDimensions;
+  }
+
+  const { height, width } = useWindowDimensions();
+
+  const maxWidth = 500;
 
   return (
     <>
@@ -21,8 +49,7 @@ function App() {
             src={process.env.PUBLIC_URL + "/TUG_logo_with_text.png"}
             alt="logo"
             style={{
-              width:  factor * ratio + "rem",
-              height:  factor + "rem",
+              width: width > maxWidth ? maxWidth : width * 0.8,
               resizeMode:   "contain"
             }}
           />
