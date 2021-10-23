@@ -2,1327 +2,1327 @@ export const pinData = [
 		{
 			lat: '8.393075',
 			lng: '124.5976',
+			name: 'Philippines 1',
 			img_href: '0',
-			name: '1'
 		},
 		{
 			lat: '8.392669',
 			lng: '124.5977',
+			name: 'Philippines 2',
 			img_href: '0',
-			name: '2'
 		},
 		{
 			lat: '8.392888',
 			lng: '124.5975',
+			name: 'Philippines 3',
 			img_href: '0',
-			name: '3'
 		},
 		{
 			lat: '8.393086',
 			lng: '124.5966',
+			name: 'Philippines 4',
 			img_href: '0',
-			name: '4'
 		},
 		{
 			lat: '8.393068',
 			lng: '124.5963',
+			name: 'Philippines 5',
 			img_href: '0',
-			name: '5'
 		},
 		{
 			lat: '8.400914',
 			lng: '124.5967',
+			name: 'Philippines 6',
 			img_href: '0',
-			name: '6'
 		},
 		{
 			lat: '8.399773',
 			lng: '124.5961',
+			name: 'Philippines 7',
 			img_href: '0',
-			name: '7'
 		},
 		{
 			lat: '8.403428',
 			lng: '124.5993',
+			name: 'Philippines 8',
 			img_href: '0',
-			name: '8'
 		},
 		{
 			lat: '8.403463',
 			lng: '124.5993',
+			name: 'Philippines 9',
 			img_href: '0',
-			name: '9'
 		},
 		{
 			lat: '8.403313',
 			lng: '124.5994',
+			name: 'Philippines 10',
 			img_href: '0',
-			name: '10'
 		},
 		{
 			lat: '8.404541',
 			lng: '124.5999',
+			name: 'Philippines 11',
 			img_href: '0',
-			name: '11'
 		},
 		{
 			lat: '8.401908',
 			lng: '124.5982',
+			name: 'Philippines 12',
 			img_href: '0',
-			name: '12'
 		},
 		{
 			lat: '8.400824',
 			lng: '124.5965',
+			name: 'Philippines 13',
 			img_href: '0',
-			name: '13'
 		},
 		{
 			lat: '8.402668',
 			lng: '124.5946',
+			name: 'Philippines 14',
 			img_href: '0',
-			name: '14'
 		},
 		{
 			lat: '8.40239',
 			lng: '124.5734',
+			name: 'Philippines 15',
 			img_href: '0',
-			name: '15'
 		},
 		{
 			lat: '8.402404',
 			lng: '124.572',
+			name: 'Philippines 16',
 			img_href: '0',
-			name: '16'
 		},
 		{
 			lat: '8.402276',
 			lng: '124.5722',
+			name: 'Philippines 17',
 			img_href: '0',
-			name: '17'
 		},
 		{
 			lat: '8.402661',
 			lng: '124.5714',
+			name: 'Philippines 18',
 			img_href: '0',
-			name: '18'
 		},
 		{
 			lat: '8.383973',
 			lng: '124.6095',
+			name: 'Philippines 19',
 			img_href: '0',
-			name: '19'
 		},
 		{
 			lat: '8.522593',
 			lng: '124.5704',
+			name: 'Philippines 20',
 			img_href: '0',
-			name: '20'
 		},
 		{
 			lat: '8.522643',
 			lng: '124.5704',
+			name: 'Philippines 21',
 			img_href: '0',
-			name: '21'
 		},
 		{
 			lat: '8.522649',
 			lng: '124.5703',
+			name: 'Philippines 22',
 			img_href: '0',
-			name: '22'
 		},
 		{
 			lat: '8.522589',
 			lng: '124.5703',
+			name: 'Philippines 23',
 			img_href: '0',
-			name: '23'
 		},
 		{
 			lat: '8.52258',
 			lng: '124.5703',
+			name: 'Philippines 24',
 			img_href: '0',
-			name: '24'
 		},
 		{
 			lat: '8.493672',
 			lng: '124.6291',
+			name: 'Philippines 32',
 			img_href: '0',
-			name: '32'
 		},
 		{
 			lat: '8.65484',
 			lng: '124.9057',
+			name: 'Philippines 33',
 			img_href: '0',
-			name: '33'
 		},
 		{
 			lat: '8.65485',
 			lng: '124.9057',
+			name: 'Philippines 35',
 			img_href: '0',
-			name: '35'
 		},
 		{
 			lat: '8.65485',
 			lng: '124.9057',
+			name: 'Philippines 36',
 			img_href: '0',
-			name: '36'
 		},
 		{
 			lat: '8.654856',
 			lng: '124.9057',
+			name: 'Philippines 37',
 			img_href: '0',
-			name: '37'
 		},
 		{
 			lat: '8.654867',
 			lng: '124.9056',
+			name: 'Philippines 38',
 			img_href: '0',
-			name: '38'
 		},
 		{
 			lat: '8.655002',
 			lng: '124.9055',
+			name: 'Philippines 39',
 			img_href: '0',
-			name: '39'
 		},
 		{
 			lat: '8.654751',
 			lng: '124.9054',
+			name: 'Philippines 40',
 			img_href: '0',
-			name: '40'
 		},
 		{
 			lat: '8.654735',
 			lng: '124.9055',
+			name: 'Philippines 41',
 			img_href: '0',
-			name: '41'
 		},
 		{
 			lat: '8.654956',
 			lng: '124.9056',
+			name: 'Philippines 42',
 			img_href: '0',
-			name: '42'
 		},
 		{
 			lat: '8.654976',
 			lng: '124.9055',
+			name: 'Philippines 43',
 			img_href: '0',
-			name: '43'
 		},
 		{
 			lat: '8.654976',
 			lng: '124.9055',
+			name: 'Philippines 44',
 			img_href: '0',
-			name: '44'
 		},
 		{
 			lat: '8.654976',
 			lng: '124.9055',
+			name: 'Philippines 45',
 			img_href: '0',
-			name: '45'
 		},
 		{
 			lat: '8.654978',
 			lng: '124.9055',
+			name: 'Philippines 46',
 			img_href: '0',
-			name: '46'
 		},
 		{
 			lat: '8.654979',
 			lng: '124.9055',
+			name: 'Philippines 47',
 			img_href: '0',
-			name: '47'
 		},
 		{
 			lat: '8.654979',
 			lng: '124.9055',
+			name: 'Philippines 48',
 			img_href: '0',
-			name: '48'
 		},
 		{
 			lat: '8.654979',
 			lng: '124.9055',
+			name: 'Philippines 49',
 			img_href: '0',
-			name: '49'
 		},
 		{
 			lat: '8.654979',
 			lng: '124.9055',
+			name: 'Philippines 50',
 			img_href: '0',
-			name: '50'
 		},
 		{
 			lat: '8.653966',
 			lng: '124.9057',
+			name: 'Philippines 51',
 			img_href: '0',
-			name: '51'
 		},
 		{
 			lat: '8.653805',
 			lng: '124.9056',
+			name: 'Philippines 52',
 			img_href: '0',
-			name: '52'
 		},
 		{
 			lat: '8.653806',
 			lng: '124.9056',
+			name: 'Philippines 53',
 			img_href: '0',
-			name: '53'
 		},
 		{
 			lat: '8.653807',
 			lng: '124.9058',
+			name: 'Philippines 54',
 			img_href: '0',
-			name: '54'
 		},
 		{
 			lat: '8.653806',
 			lng: '124.9058',
+			name: 'Philippines 55',
 			img_href: '0',
-			name: '55'
 		},
 		{
 			lat: '8.653828',
 			lng: '124.9058',
+			name: 'Philippines 56',
 			img_href: '0',
-			name: '56'
 		},
 		{
 			lat: '8.653828',
 			lng: '124.9058',
+			name: 'Philippines 57',
 			img_href: '0',
-			name: '57'
 		},
 		{
 			lat: '8.653828',
 			lng: '124.9058',
+			name: 'Philippines 58',
 			img_href: '0',
-			name: '58'
 		},
 		{
 			lat: '8.65388',
 			lng: '124.906',
+			name: 'Philippines 59',
 			img_href: '0',
-			name: '59'
 		},
 		{
 			lat: '8.65388',
 			lng: '124.906',
+			name: 'Philippines 60',
 			img_href: '0',
-			name: '60'
 		},
 		{
 			lat: '8.653983',
 			lng: '124.906',
+			name: 'Philippines 61',
 			img_href: '0',
-			name: '61'
 		},
 		{
 			lat: '8.653983',
 			lng: '124.906',
+			name: 'Philippines 62',
 			img_href: '0',
-			name: '62'
 		},
 		{
 			lat: '8.65396',
 			lng: '124.9057',
+			name: 'Philippines 63',
 			img_href: '0',
-			name: '63'
 		},
 		{
 			lat: '8.65396',
 			lng: '124.9057',
+			name: 'Philippines 64',
 			img_href: '0',
-			name: '64'
 		},
 		{
 			lat: '8.65396',
 			lng: '124.9057',
+			name: 'Philippines 65',
 			img_href: '0',
-			name: '65'
 		},
 		{
 			lat: '8.653994',
 			lng: '124.9057',
+			name: 'Philippines 66',
 			img_href: '0',
-			name: '66'
 		},
 		{
 			lat: '8.650002',
 			lng: '124.9126',
+			name: 'Philippines 71',
 			img_href: '0',
-			name: '71'
 		},
 		{
 			lat: '8.650002',
 			lng: '124.9126',
+			name: 'Philippines 72',
 			img_href: '0',
-			name: '72'
 		},
 		{
 			lat: '8.649814',
 			lng: '124.9125',
+			name: 'Philippines 73',
 			img_href: '0',
-			name: '73'
 		},
 		{
 			lat: '8.649815',
 			lng: '124.9125',
+			name: 'Philippines 74',
 			img_href: '0',
-			name: '74'
 		},
 		{
 			lat: '8.649815',
 			lng: '124.9125',
+			name: 'Philippines 75',
 			img_href: '0',
-			name: '75'
 		},
 		{
 			lat: '8.649638',
 			lng: '124.9129',
+			name: 'Philippines 76',
 			img_href: '0',
-			name: '76'
 		},
 		{
 			lat: '8.649639',
 			lng: '124.9129',
+			name: 'Philippines 77',
 			img_href: '0',
-			name: '77'
 		},
 		{
 			lat: '8.649872',
 			lng: '124.913',
+			name: 'Philippines 78',
 			img_href: '0',
-			name: '78'
 		},
 		{
 			lat: '8.649872',
 			lng: '124.913',
+			name: 'Philippines 79',
 			img_href: '0',
-			name: '79'
 		},
 		{
 			lat: '8.649987',
 			lng: '124.9126',
+			name: 'Philippines 80',
 			img_href: '0',
-			name: '80'
 		},
 		{
 			lat: '8.649987',
 			lng: '124.9126',
+			name: 'Philippines 81',
 			img_href: '0',
-			name: '81'
 		},
 		{
 			lat: '8.649987',
 			lng: '124.9126',
+			name: 'Philippines 82',
 			img_href: '0',
-			name: '82'
 		},
 		{
 			lat: '8.65141',
 			lng: '124.9132',
+			name: 'Philippines 83',
 			img_href: '0',
-			name: '83'
 		},
 		{
 			lat: '8.65141',
 			lng: '124.9132',
+			name: 'Philippines 84',
 			img_href: '0',
-			name: '84'
 		},
 		{
 			lat: '8.651468',
 			lng: '124.9132',
+			name: 'Philippines 85',
 			img_href: '0',
-			name: '85'
 		},
 		{
 			lat: '8.65147',
 			lng: '124.9132',
+			name: 'Philippines 86',
 			img_href: '0',
-			name: '86'
 		},
 		{
 			lat: '8.651443',
 			lng: '124.9132',
+			name: 'Philippines 87',
 			img_href: '0',
-			name: '87'
 		},
 		{
 			lat: '8.651443',
 			lng: '124.9132',
+			name: 'Philippines 88',
 			img_href: '0',
-			name: '88'
 		},
 		{
 			lat: '8.651357',
 			lng: '124.9132',
+			name: 'Philippines 89',
 			img_href: '0',
-			name: '89'
 		},
 		{
 			lat: '8.651358',
 			lng: '124.9132',
+			name: 'Philippines 90',
 			img_href: '0',
-			name: '90'
 		},
 		{
 			lat: '8.651329',
 			lng: '124.9131',
+			name: 'Philippines 91',
 			img_href: '0',
-			name: '91'
 		},
 		{
 			lat: '8.65133',
 			lng: '124.9131',
+			name: 'Philippines 92',
 			img_href: '0',
-			name: '92'
 		},
 		{
 			lat: '8.651347',
 			lng: '124.913',
+			name: 'Philippines 93',
 			img_href: '0',
-			name: '93'
 		},
 		{
 			lat: '8.651348',
 			lng: '124.913',
+			name: 'Philippines 94',
 			img_href: '0',
-			name: '94'
 		},
 		{
 			lat: '8.651438',
 			lng: '124.913',
+			name: 'Philippines 95',
 			img_href: '0',
-			name: '95'
 		},
 		{
 			lat: '8.651438',
 			lng: '124.913',
+			name: 'Philippines 96',
 			img_href: '0',
-			name: '96'
 		},
 		{
 			lat: '8.651397',
 			lng: '124.9131',
+			name: 'Philippines 97',
 			img_href: '0',
-			name: '97'
 		},
 		{
 			lat: '8.651397',
 			lng: '124.9131',
+			name: 'Philippines 98',
 			img_href: '0',
-			name: '98'
 		},
 		{
 			lat: '8.651397',
 			lng: '124.9131',
+			name: 'Philippines 99',
 			img_href: '0',
-			name: '99'
 		},
 		{
 			lat: '8.651401',
 			lng: '124.9133',
+			name: 'Philippines 100',
 			img_href: '0',
-			name: '100'
 		},
 		{
 			lat: '8.651401',
 			lng: '124.9133',
+			name: 'Philippines 101',
 			img_href: '0',
-			name: '101'
 		},
 		{
 			lat: '8.651401',
 			lng: '124.9133',
+			name: 'Philippines 102',
 			img_href: '0',
-			name: '102'
 		},
 		{
 			lat: '8.651401',
 			lng: '124.9133',
+			name: 'Philippines 103',
 			img_href: '0',
-			name: '103'
 		},
 		{
 			lat: '8.479748',
 			lng: '124.637',
+			name: 'Philippines bee',
 			img_href: '0',
-			name: 'bee'
 		},
 		{
 			lat: '8.654848',
 			lng: '124.9057',
+			name: 'Philippines C',
 			img_href: '0',
-			name: 'C'
 		},
 		{
 			lat: '8.420664',
 			lng: '124.6289',
+			name: 'Philippines H1',
 			img_href: '0',
-			name: 'H1'
 		},
 		{
 			lat: '8.421979',
 			lng: '124.6296',
+			name: 'Philippines H2',
 			img_href: '0',
-			name: 'H2'
 		},
 		{
 			lat: '8.421495',
 			lng: '124.6304',
+			name: 'Philippines H3',
 			img_href: '0',
-			name: 'H3'
 		},
 		{
 			lat: '8.420313',
 			lng: '124.6299',
+			name: 'Philippines H4',
 			img_href: '0',
-			name: 'H4'
 		},
 		{
 			lat: '8.4214',
 			lng: '124.6292',
+			name: 'Philippines H5',
 			img_href: '0',
-			name: 'H5'
 		},
 		{
 			lat: '8.420792',
 			lng: '124.63',
+			name: 'Philippines H6',
 			img_href: '0',
-			name: 'H6'
 		},
 		{
 			lat: '8.297367',
 			lng: '124.5983',
-			img_href: 'https://lh6.googleusercontent.com/proxy/zHZG2IrqNvLs2I6qnnRCQMZBbEv9EGo19pp7yOXgY-y6oaKGNsIkq2T1JFHRkv5ntw',
-			name: 'Langaon_1.0'
+			name: 'Langaon_1.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_1.0.jpg',
 		},
 		{
 			lat: '8.295817',
 			lng: '124.5997',
-			img_href: 'https://lh6.googleusercontent.com/proxy/ZtKZDfs-e42Hj__Bp36MQSsxg2h_a0gk_7XVyC8CI8Yj1Veh49G4lUAa6ZoFOEG60A',
-			name: 'Langaon_15.0'
+			name: 'Langaon_15.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_15.0.jpg',
 		},
 		{
 			lat: '8.300983',
 			lng: '124.5976',
-			img_href: 'https://lh6.googleusercontent.com/proxy/dNETGZ6ojYHlqGGwf4VOJLU2N8NTaqtLWPdWz_q9J64daOMUHFCjlaP03MyTuBSDaQ',
-			name: 'Langaon_3.0'
+			name: 'Langaon_3.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_3.0.jpg',
 		},
 		{
 			lat: '8.299267',
 			lng: '124.5983',
-			img_href: 'https://lh6.googleusercontent.com/proxy/Jl6iumuiXU02f13ocXfZpC_d9teUBn_Ya-KnRIQ_KSshixW8IgeSE8c9IK7pbtJfzA',
-			name: 'Langaon_23.0'
+			name: 'Langaon_23.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_23.0.jpg',
 		},
 		{
 			lat: '8.29725',
 			lng: '124.5987',
-			img_href: 'https://lh6.googleusercontent.com/proxy/U_gr37tZCvWyGGXmlrIPyclOOljj0zrQsBMGRtcWR_pwjJChnq19Ck_MWh1IAT29rg',
-			name: 'Langaon_17.0'
+			name: 'Langaon_17.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_17.0.jpg',
 		},
 		{
 			lat: '8.29955',
 			lng: '124.5976',
-			img_href: 'https://lh6.googleusercontent.com/proxy/YVByuzs9hpbONTbLpttZVPFtUXZRzdkw_URLpVP5vkDgRwBt-i-HQq84-KvvL8ABFw',
-			name: 'Langaon_18.0'
+			name: 'Langaon_18.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_18.0.jpg',
 		},
 		{
 			lat: '8.3007',
 			lng: '124.5984',
-			img_href: 'https://lh6.googleusercontent.com/proxy/MjvMoj1aUAOcWeVyGHDCvhw8IgGANVxFQLOJku3LrPFOxHv7zggm2K3Xbtr4xFwyaw',
-			name: 'Langaon_4.0'
+			name: 'Langaon_4.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_4.0.jpg',
 		},
 		{
 			lat: '8.293633',
 			lng: '124.5995',
-			img_href: 'https://lh6.googleusercontent.com/proxy/XUq2lcvdO4bcHgGHnNmGu27iETb3PUzW-nkZplEteO0Jj4m2D9L6KhzIN5QcfXyiwg',
-			name: 'Langaon_2.0'
+			name: 'Langaon_2.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_2.0.jpg',
 		},
 		{
 			lat: '8.295883',
 			lng: '124.5987',
-			img_href: 'https://lh6.googleusercontent.com/proxy/FaQGe2cr17F29ezTBBMrrNOJYBX8Twq4Tay0UzI2w07fz0FCq1tYUNci8Hoe60hTaw',
-			name: 'Langaon_19.0'
+			name: 'Langaon_19.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_19.0.jpg',
 		},
 		{
 			lat: '8.295833',
 			lng: '124.5986',
-			img_href: 'https://lh6.googleusercontent.com/proxy/bPzTUHmcOG9J-q23-xSzXFVhmA--XxtrOmhzB2cumfi6cNSWtvVM2UkzbPE5bIGhXQ',
-			name: 'Langaon_20.0'
+			name: 'Langaon_20.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_20.0.jpg',
 		},
 		{
 			lat: '8.296217',
 			lng: '124.5987',
-			img_href: 'https://lh6.googleusercontent.com/proxy/vwqRDdY1_f04AAIJbR3xuKmB6YND6wXFrVBHlUgBqUK7XY5oCmILrisgToRK7Hr5dA',
-			name: 'Langaon_21.0'
+			name: 'Langaon_21.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_21.0.jpg',
 		},
 		{
 			lat: '8.295817',
 			lng: '124.5986',
+			name: 'Langaon_22.0',
 			img_href: '0',
-			name: 'Langaon_22.0'
 		},
 		{
 			lat: '8.297267',
 			lng: '124.5987',
-			img_href: 'https://lh6.googleusercontent.com/proxy/ml6NLuTOvl1-qamKWuFK-CNAY8KaPbJnyeLyXjAXzJdkDBRIbhEINXmJRZSVaEyR6Q',
-			name: 'Langaon_24.0'
+			name: 'Langaon_24.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_24.0.jpg',
 		},
 		{
 			lat: '8.2996',
 			lng: '124.5983',
-			img_href: 'https://lh6.googleusercontent.com/proxy/iCHjgC9t38ndUQusOG2tL_PLL4yWQcpc8AZ1uZdzoTQhv79FEnT7L81JNX6K-gyuww',
-			name: 'Langaon_25.0'
+			name: 'Langaon_25.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_25.0.jpg',
 		},
 		{
 			lat: '8.295917',
 			lng: '124.5987',
-			img_href: 'https://lh6.googleusercontent.com/proxy/FfrV6RBfSpkfm4XW1CuAAWbvz46ruB4oNu6vD52z0hNEl6RW0fZcxzJZiDVXL_H3dA',
-			name: 'Langaon_26.0'
+			name: 'Langaon_26.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_26.0.jpg',
 		},
 		{
 			lat: '8.296167',
 			lng: '124.5991',
-			img_href: 'https://lh6.googleusercontent.com/proxy/EiTzwjjFPyG9rOcXUnQzorhzfuT2zgqpI-OAUCAatvf61lcDyiy4Qz6svVLyFNg6Wg',
-			name: 'Langaon_27.0'
+			name: 'Langaon_27.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_27.0.jpg',
 		},
 		{
 			lat: '8.299667',
 			lng: '124.5981',
-			img_href: 'https://lh6.googleusercontent.com/proxy/f2r-gxRRUv7Wxejj4MXxJcGOSnwxgAc1dKeRaZs68BVOsPYMgyxNpaotZ9rydALkZA',
-			name: 'Langaon_28.0'
+			name: 'Langaon_28.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_28.0.jpg',
 		},
 		{
 			lat: '8.3003',
 			lng: '124.5983',
-			img_href: 'https://lh6.googleusercontent.com/proxy/Ovff0oRfWV1HvuYg0L0c8AHtt3BzmNYotGj-VRKBzWm7JiSETRjsPRHOIiwpHd-Jlw',
-			name: 'Langaon_29.0'
+			name: 'Langaon_29.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_29.0.jpg',
 		},
 		{
 			lat: '8.299017',
 			lng: '124.606',
-			img_href: 'https://lh6.googleusercontent.com/proxy/whmwaawgdJnAI40uWDtARdCzOL1EFMHHdLc9b8gutDVSAX4LjYdtcW6bQuDpd6izEQ',
-			name: 'Langaon_30.0'
+			name: 'Langaon_30.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_30.0.jpg',
 		},
 		{
 			lat: '8.299667',
 			lng: '124.5981',
-			img_href: 'https://lh6.googleusercontent.com/proxy/6t537pYivRDcYzqx6AQiLsbTdqaPopATt-ZCpsvrrfq6Cg-giJ0HkJP2X5hVTbXCnA',
-			name: 'Langaon_31.0'
+			name: 'Langaon_31.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_31.0.jpg',
 		},
 		{
 			lat: '8.297533',
 			lng: '124.5983',
-			img_href: 'https://lh6.googleusercontent.com/proxy/UIACroRpGK9lEkXDGcXglYnd-QZQwjbPH6AJQR8A7efQRG_QLHj4-aFGz5Cqb6MT7A',
-			name: 'Langaon_32.0'
+			name: 'Langaon_32.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_32.0.jpg',
 		},
 		{
 			lat: '8.296133',
 			lng: '124.5988',
-			img_href: 'https://lh6.googleusercontent.com/proxy/5xlZz3OrbSrrkQOyZiIq5PMZNnHZ6qaPIjSKVWdxIba-91iQJUhSTEs3BdZ_DFyOlw',
-			name: 'Langaon_33.0'
+			name: 'Langaon_33.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_33.0.jpg',
 		},
 		{
 			lat: '8.2998',
 			lng: '124.5982',
-			img_href: 'https://lh6.googleusercontent.com/proxy/5HxJ3SBhunzpYeQ73D2NZ-bnLH0Bvihyl0cDcXmyg7bnzAAkzpX6692C6pzaZGYUtA',
-			name: 'Langaon_34.0'
+			name: 'Langaon_34.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_34.0.jpg',
 		},
 		{
 			lat: '8.300217',
 			lng: '124.5998',
-			img_href: 'https://lh6.googleusercontent.com/proxy/FnqYKeMq9fzsneHliDvQxCveZ1vqTpXgORvLWIx3_LJyrFgXW-zQ_1ulBsbdOOOLag',
-			name: 'Langaon_35.0'
+			name: 'Langaon_35.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_35.0.jpg',
 		},
 		{
 			lat: '8.29615',
 			lng: '124.5988',
-			img_href: 'https://lh6.googleusercontent.com/proxy/h1zG5x0kjRQeidtCj_kPc9cUfAW-GObmRxJpHByoXGGiFjfW_RsC4a3TOPPnjWuBcg',
-			name: 'Langaon_36.0'
+			name: 'Langaon_36.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Langaon_36.0.jpg',
 		},
 		{
 			lat: '8.536535',
 			lng: '124.3129',
-			img_href: 'https://lh6.googleusercontent.com/proxy/ROyTgLIa23LRhNzWfV1VSRruAOVaK41KTe8zqUp9b2WC1OjKOk4QDCrvwhMxY5rQYA',
-			name: 'Bobutan_5.0'
+			name: 'Bobutan_5.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_5.0.jpg',
 		},
 		{
 			lat: '8.536327',
 			lng: '124.3129',
-			img_href: 'https://lh6.googleusercontent.com/proxy/j5ZC_dFxViDvBFXJZAMyH1324p3cERz2-9kP_YVZ0N69V4yh79wZEpmXJzY4uawtcw',
-			name: 'Bobutan_6.0'
+			name: 'Bobutan_6.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_6.0.jpg',
 		},
 		{
 			lat: '8.53656',
 			lng: '124.3129',
-			img_href: 'https://lh6.googleusercontent.com/proxy/iSVT1p0Rq8S5nZeo4Li-wdRysMHCA2WJFPoglf-zMnmaq6CsvR3_Il8tk_hZJuQvqg',
-			name: 'Bobutan_7.0'
+			name: 'Bobutan_7.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_7.0.jpg',
 		},
 		{
 			lat: '8.53646',
 			lng: '124.313',
-			img_href: 'https://lh6.googleusercontent.com/proxy/uooUfK3W27HcOsUSZVUfCjz7f9xaa3k78Z_b_B30fEgFIadNvo8K-87UEUrUt6Gm8A',
-			name: 'Bobutan_8.0'
+			name: 'Bobutan_8.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_8.0.jpg',
 		},
 		{
 			lat: '8.536451',
 			lng: '124.313',
-			img_href: 'https://lh6.googleusercontent.com/proxy/Pi10XhDCatPiM90cRaG6T0w0voy3SIMzryNEofrlSbPJTKrPpc9B7rVIU34z8c9sow',
-			name: 'Bobutan_9.0'
+			name: 'Bobutan_9.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_9.0.jpg',
 		},
 		{
 			lat: '8.536435',
 			lng: '124.3129',
-			img_href: 'https://lh6.googleusercontent.com/proxy/5rBXBm37RYtph8sBL3IpK0tWEKrg2A27SzDg4mYio0P30Wv0LrMC7jvdg3B0yQxwUQ',
-			name: 'Bobutan_10.0'
+			name: 'Bobutan_10.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_10.0.jpg',
 		},
 		{
 			lat: '8.536434',
 			lng: '124.3129',
-			img_href: 'https://lh6.googleusercontent.com/proxy/m4hBKWKvHOEwojabcA-w-KwaZhx0V3PEpxKfbBs7Hff5Wx8YgoqLROKvaRPLjrONSQ',
-			name: 'Bobutan_11.0'
+			name: 'Bobutan_11.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_11.0.jpg',
 		},
 		{
 			lat: '8.53638',
 			lng: '124.3129',
-			img_href: 'https://lh6.googleusercontent.com/proxy/OJTW6RVU-L4MV4rx5VzALkhPJrwBR0alU4v8EkfOY-p750uv-ngzemoUNRPZOJM7KA',
-			name: 'Bobutan_12.0'
+			name: 'Bobutan_12.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_12.0.jpg',
 		},
 		{
 			lat: '8.536397',
 			lng: '124.3129',
-			img_href: 'https://lh6.googleusercontent.com/proxy/I3l6sEGmQo32KUWET53FanN_RKLTamHC8_E8u9foQoFNK9AZ1ASd8OKbr2mUavv3qA',
-			name: 'Bobutan_13.0'
+			name: 'Bobutan_13.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_13.0.jpg',
 		},
 		{
 			lat: '8.536327',
 			lng: '124.3129',
-			img_href: 'https://lh6.googleusercontent.com/proxy/JTLDeJH3qlo_pudcLPtLxQS3Tl9XRpJi-oT28wpDD4dFkO2d32K3dnpvNeDPWgllpw',
-			name: 'Bobutan_14.0'
+			name: 'Bobutan_14.0',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Bobutan_14.0.jpg',
 		},
 		{
 			lat: '11.51475',
 			lng: '79.61503',
-			img_href: 'https://lh6.googleusercontent.com/proxy/BcxK18t17TKMLP7_wciSxy5gIv-jJG6KTC33tlDBIgo9X4W4TI9tpYUwJ13qoZObqA',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 1',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+1.jpg',
 		},
 		{
 			lat: '11.51557',
 			lng: '79.61575',
-			img_href: 'https://lh6.googleusercontent.com/proxy/pP3Gg969cUVJWcIWlFHtJHx2gLK8dcPy7Kp6YwMOzwQbUidD0RPD_PDoX2_o6R8-Yg',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 2',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+2.jpg',
 		},
 		{
 			lat: '11.51482',
 			lng: '79.61543',
-			img_href: 'https://lh6.googleusercontent.com/proxy/4v3FAw8Wkl2ghIq_S3xmx1KhbYIJcmRQnfZBqKr6GRg2YwbP8W1co3rstx36dZzt2g',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 3',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+3.jpg',
 		},
 		{
 			lat: '11.51575',
 			lng: '79.617',
-			img_href: 'https://lh6.googleusercontent.com/proxy/3TcBk15xVwtmgqpPFSGG_6rl3oRyg-uAMa7gCm_qxe8RR5jtffKgJgLVJQM2y_SdrQ',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 4',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+4.jpg',
 		},
 		{
 			lat: '11.51515',
 			lng: '79.61743',
-			img_href: 'https://lh6.googleusercontent.com/proxy/njUT6Rooudla3UT-EPvLEKzjf5L5YPwUsnmwUZTD2unYay0vq7Gl6idrSKAFx3cgeQ',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 5',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+5.jpg',
 		},
 		{
 			lat: '11.51527',
 			lng: '79.61783',
-			img_href: 'https://lh6.googleusercontent.com/proxy/6rsQSrk_ZJWftbHp5pO9lpH7HfSm7jxPRv2dHqs9q6sL-Yt_Nh__KfZ_YKj1W3PXlQ',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 6',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+6.jpg',
 		},
 		{
 			lat: '11.5145',
 			lng: '79.6161',
-			img_href: 'https://lh6.googleusercontent.com/proxy/g7mTLSb_qE7jzrcbmSLjPlN87UKd3aP0C3VFvfejmVxdw0TDHr7q2k42-GXNxV_UGQ',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 7',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+7.jpg',
 		},
 		{
 			lat: '11.51468',
 			lng: '79.6174',
-			img_href: 'https://lh6.googleusercontent.com/proxy/_hCqKCQUQX2K596q9nrOgSia3BVFpm2WFIlAkCUueoH89U21bFRbSbP30aRvE__I5A',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 8',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+8.jpg',
 		},
 		{
 			lat: '11.5152',
 			lng: '79.61573',
-			img_href: 'https://lh6.googleusercontent.com/proxy/HFqhQ87p7ZkYtTl2yZtWBh8KG8PQ7uywxWVHI4Ht_BOHOek_ogYx-Nv9sngMaMJa6g',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 9',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+9.jpg',
 		},
 		{
 			lat: '11.51472',
 			lng: '79.61548',
-			img_href: 'https://lh6.googleusercontent.com/proxy/wzbY6fk3SgT6VDAfbvrho6re4wanhSyd4-5cPcRI_vYx8IG6YcbLq0cjmL2jyEqULA',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 10',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+10.jpg',
 		},
 		{
 			lat: '12.37335',
 			lng: '-1.4012',
-			img_href: 'https://lh6.googleusercontent.com/proxy/o4J9AjzzP-gfbftvW3fz1v4ZglSEv2sowK_35DqS-S3qKAf98QYdiJLiBVTc6JzwaQ',
-			name: 'Saaba'
+			name: 'Saaba 1',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Saaba+1.jpg',
 		},
 		{
 			lat: '12.37297',
 			lng: '-1.4011',
-			img_href: 'https://lh6.googleusercontent.com/proxy/sIFmnUXCNnpJ1PGhelTjJ4XCPE5-EwlrLfbIDIjum0i4m4Vc2prOTlhUkiJPVVYyNA',
-			name: 'Saaba'
+			name: 'Saaba 2',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Saaba+2.jpg',
 		},
 		{
 			lat: '10.64737',
 			lng: '-4.75525',
-			img_href: 'https://lh6.googleusercontent.com/proxy/u5C9nCCKtGf2pcADv5BhIzcvRW3CIK8z0UaVBNt40cieCNqFyJaW9El0V-rSfd8rqA',
-			name: 'Banfora'
+			name: 'Banfora 1',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Banfora+1.jpg',
 		},
 		{
 			lat: '10.64728',
 			lng: '-4.75598',
-			img_href: 'https://lh6.googleusercontent.com/proxy/df0_V5_Ipwd0lC9lNSoVSDf_DRd0YrjLs5rIhlyZp3M4RLEV2wEkpuROmgvD8C4ixA',
-			name: 'Banfora'
+			name: 'Banfora 2',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Banfora+2.jpg',
 		},
 		{
 			lat: '10.65915',
 			lng: '-4.85',
-			img_href: 'https://lh6.googleusercontent.com/proxy/mD1kJ0xwYmHjdLvEqqIS2AgMPx6h6HUVAJcMlpyw0ery382u0j2xeVK-NHI4RaKxyYKT',
-			name: 'Tengrela'
+			name: 'Tengrela 1',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+1.jpg',
 		},
 		{
 			lat: '10.65645',
 			lng: '-4.86313',
-			img_href: 'https://lh6.googleusercontent.com/proxy/gUTJ0zIJhq418sd8wNPKsg63xCf7WKHHnjpxxykq2E_fSSSGHEjkLqg-wzCRLZo7g-c3',
-			name: 'Tengrela'
+			name: 'Tengrela 2',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+2.jpg',
 		},
 		{
 			lat: '10.65727',
 			lng: '-4.86797',
-			img_href: 'https://lh6.googleusercontent.com/proxy/ABP1Tx_zyvc04NeTEJ7zbeJ-HxerbWKDEPyvf-bm8qxcDifcWNjZ_yELH105W9fGConV',
-			name: 'Tengrela'
+			name: 'Tengrela 3',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+3.jpg',
 		},
 		{
 			lat: '10.65602',
 			lng: '-4.87402',
+			name: 'Tengrela 4',
 			img_href: '0',
-			name: 'Tengrela'
 		},
 		{
 			lat: '10.65708',
 			lng: '-4.87858',
-			img_href: 'https://lh6.googleusercontent.com/proxy/0otcXskJ7MHfQ59qBC5durOg9w8GE3KLQg3J4E4LDwRaWYDugCA4NyaJcWEANOGIDLPT',
-			name: 'Tengrela'
+			name: 'Tengrela 5',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+5.jpg',
 		},
 		{
 			lat: '10.65565',
 			lng: '-4.82755',
+			name: 'Tengrela 6',
 			img_href: '0',
-			name: 'Tengrela'
 		},
 		{
 			lat: '10.65567',
 			lng: '-4.8275',
-			img_href: 'https://lh6.googleusercontent.com/proxy/GhRNtjy3l4H2c7BhrV_LiLRbqoFGsbn9YRg_5fLg2qdISpbUXOvdX9Rh8bvVplktA0pY',
-			name: 'Tengrela'
+			name: 'Tengrela 7',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+7.jpg',
 		},
 		{
 			lat: '10.65177',
 			lng: '-4.8273',
-			img_href: 'https://lh6.googleusercontent.com/proxy/EyACUsF9NnX8Tuaarm9x9e9zYCMqZhRJZp8TPT4i2W3b0qoofzB36GI9p_eGNJ8EeCuo',
-			name: 'Tengrela'
+			name: 'Tengrela 8',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+8.jpg',
 		},
 		{
 			lat: '10.6533',
 			lng: '-4.82437',
+			name: 'Tengrela 9',
 			img_href: '0',
-			name: 'Tengrela'
 		},
 		{
 			lat: '10.65372',
 			lng: '-4.82423',
-			img_href: 'https://lh6.googleusercontent.com/proxy/c7NEHbyv36vZcKu1xH3BfYTY9YWup3o11zD5njKhzS-0nF1k59yV7SJxLNaJpMss87iy',
-			name: 'Tengrela'
+			name: 'Tengrela 10',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+10.jpg',
 		},
 		{
 			lat: '10.65373',
 			lng: '-4.82382',
-			img_href: 'https://lh6.googleusercontent.com/proxy/EdbSI5qVNMkBd2wCqx-1nAIjhrTBLUOtthJXIMFfHuGYzdn2UxamzhY7pVpsSkSjdChw',
-			name: 'Tengrela'
+			name: 'Tengrela 11',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+11.jpg',
 		},
 		{
 			lat: '10.6527',
 			lng: '-4.82373',
-			img_href: 'https://lh6.googleusercontent.com/proxy/OLBfYQ38VHhp93KFKg98y4VUlhStWR0IHILM1esJQTekYJZcfzrv6heCY4nsNKlNn9Nm',
-			name: 'Tengrela'
+			name: 'Tengrela 12',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+12.jpg',
 		},
 		{
 			lat: '10.65738',
 			lng: '-4.82647',
-			img_href: 'https://lh6.googleusercontent.com/proxy/rL9CTQhSaIu9M6jv-xyjQ-1_OkT6shzduN5qZRTjBWcSiSdL03af8JG4sW7R7VgcjJKB',
-			name: 'Tengrela'
+			name: 'Tengrela 13',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+13.jpg',
 		},
 		{
 			lat: '10.65932',
 			lng: '-4.82665',
-			img_href: 'https://lh6.googleusercontent.com/proxy/7jFvA-cjQMFOSjs0tZgjI-IhmuVUxJvnKox8byubItG6eIxi95NOViaiC_rxxXolKA2t',
-			name: 'Tengrela'
+			name: 'Tengrela 14',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+14.jpg',
 		},
 		{
 			lat: '10.64825',
 			lng: '-4.80752',
-			img_href: 'https://lh6.googleusercontent.com/proxy/AzSQFMdgdXQ58gcVSM9GIUp7mumTLWHMdvtVBzG8m5bT9NxhFF-FYzyBoVv944xKW1Ek',
-			name: 'Tengrela'
+			name: 'Tengrela 15',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+15.jpg',
 		},
 		{
 			lat: '10.64852',
 			lng: '-4.808',
-			img_href: 'https://lh6.googleusercontent.com/proxy/0WkelLbLXPxFAnERU6hhMdXL-GK25x8RLQrkAqf3JvSukPkplOEbR932a8TPIy151-N1',
-			name: 'Tengrela'
+			name: 'Tengrela 16',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Tengrela+16.jpg',
 		},
 		{
 			lat: '0',
 			lng: '0',
+			name: 'Ouagadougou 1',
 			img_href: '0',
-			name: 'Ouagadougou'
 		},
 		{
 			lat: '0',
 			lng: '0',
+			name: 'Saaba 3',
 			img_href: '0',
-			name: 'Saaba'
 		},
 		{
 			lat: '0',
 			lng: '0',
+			name: 'Saaba 4',
 			img_href: '0',
-			name: 'Saaba'
 		},
 		{
 			lat: '0',
 			lng: '0',
+			name: 'Saaba 5',
 			img_href: '0',
-			name: 'Saaba'
 		},
 		{
 			lat: '0',
 			lng: '0',
+			name: 'Saaba 6',
 			img_href: '0',
-			name: 'Saaba'
 		},
 		{
 			lat: '0',
 			lng: '0',
+			name: 'Saaba 7',
 			img_href: '0',
-			name: 'Saaba'
 		},
 		{
 			lat: '0',
 			lng: '0',
+			name: 'Tondtenga 1',
 			img_href: '0',
-			name: 'Tondtenga'
 		},
 		{
 			lat: '11.5135',
 			lng: '79.62355',
-			img_href: 'https://lh6.googleusercontent.com/proxy/Na76Q7aczh-UdFRRXg4onyzDOCiTGM2W3CX1hhPEygfrsWBPV-JMNmik3CC6uNY6DQ',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 11',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+11.jpg',
 		},
 		{
 			lat: '11.51352',
 			lng: '79.62347',
-			img_href: 'https://lh6.googleusercontent.com/proxy/zoy_5Furn5v33PAaUFy967XBFUAJe3GdEMx4COLTgEGQwSkAn1Dk0pMowl-UgsY',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 12',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+12.jpg',
 		},
 		{
 			lat: '11.5135',
 			lng: '79.62333',
-			img_href: 'https://lh6.googleusercontent.com/proxy/RbHJ4ly5MGuGenhawmxmKV94a-9lGhSG1CvIUL2PfRTFtUS_qiTWGelCZeH7pOo',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 13',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+13.jpg',
 		},
 		{
 			lat: '11.51348',
 			lng: '79.6232',
-			img_href: 'https://lh6.googleusercontent.com/proxy/eSrHbgaUz3ndbNU4VZv35rdNr6lKvGklgA8ABPY4Kj0K0Hfkz9QIu1j36CpYg1c',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 14',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+14.jpg',
 		},
 		{
 			lat: '11.51345',
 			lng: '79.62292',
-			img_href: 'https://lh6.googleusercontent.com/proxy/3m6oShrxkePFj1nTs9Hiqv6dSEsKKBQT4y2Hu734sBH_DzOABKmJNr3y3GBgz0k',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 15',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+15.jpg',
 		},
 		{
 			lat: '11.5136',
 			lng: '79.62283',
-			img_href: 'https://lh6.googleusercontent.com/proxy/QwWVsiKHZt3HsOFFZUXkyh6489wFaHslhpS1EISEXB4ewbW-Wjbrrq3IAarlLwQ',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 16',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+16.jpg',
 		},
 		{
 			lat: '11.5135',
 			lng: '79.62277',
-			img_href: 'https://lh6.googleusercontent.com/proxy/eIF5KpAHrmCtYBJikeRL4aHri6fgpz16utUa7ex2SDnz9LjEEUcY-8kxnJ-lhiM',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 17',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+17.jpg',
 		},
 		{
 			lat: '11.51327',
 			lng: '79.62338',
-			img_href: 'https://lh6.googleusercontent.com/proxy/UAV9k1VFY1lzF42cgN_DhNJNhh8g0OT1STe2dcW9IDIW6Ds57jfZEtKL-6UXEsk',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 18',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+18.jpg',
 		},
 		{
 			lat: '11.51283',
 			lng: '79.6232',
+			name: 'Kumudimoolai 19',
 			img_href: '0',
-			name: 'Kumudimoolai'
 		},
 		{
 			lat: '11.51273',
 			lng: '79.62305',
-			img_href: 'https://lh6.googleusercontent.com/proxy/cYq6Vdxr2lMwildncILL1CyygVPy7YiIR3lWehB4JzOGU1xe-Dlzo40rsv1ZMf0',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 20',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+20.jpg',
 		},
 		{
 			lat: '11.51363',
 			lng: '79.6233',
-			img_href: 'https://lh6.googleusercontent.com/proxy/og2koAALOrcwzl4VuCVWQ9I868uHiF-Rgq-5Cn8CdHxoUhlaUeGZQUcqciC0YUU',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 21',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+21.jpg',
 		},
 		{
 			lat: '11.51393',
 			lng: '79.62297',
-			img_href: 'https://lh6.googleusercontent.com/proxy/PigqCyyPgjkMrqPCDuNT6Pk8RHec_FZGUoPHZ2GhcuKmqwBXQbI7YXS75rpUjS4',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 22',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+22.jpg',
 		},
 		{
 			lat: '11.51365',
 			lng: '79.62285',
-			img_href: 'https://lh6.googleusercontent.com/proxy/I2RFgL7HmZjOPvyDyo-MP7pbXtrI6NkGFo2gqrVRhXo_PUKyy5LfmYppoBQ9SkA',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 23',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+23.jpg',
 		},
 		{
 			lat: '11.51365',
 			lng: '79.62287',
-			img_href: 'https://lh6.googleusercontent.com/proxy/DYicGJ76rHrD4ufmfiGE-mSMZNOP1FTiSkX7CuR7JXjgnt0QENbDvDd5VK9-6HQ',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 24',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+24.jpg',
 		},
 		{
 			lat: '11.51362',
 			lng: '79.62278',
-			img_href: 'https://lh6.googleusercontent.com/proxy/ODKQQmN2aubGalVHZoQz2anq0Ky80Q8h0Zl4wBbuiq2tCuSWB84VQdLHKpOpqfY',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 25',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+25.jpg',
 		},
 		{
 			lat: '11.51383',
 			lng: '79.62243',
+			name: 'Kumudimoolai 26',
 			img_href: '0',
-			name: 'Kumudimoolai'
 		},
 		{
 			lat: '11.51422',
 			lng: '79.6225',
-			img_href: 'https://lh6.googleusercontent.com/proxy/FzIPTzsm7svhqhezeQ2EAxGpBT2l4D2pKwxCWkd4K4ZJTNf0T6w_onatFJ3aM4M',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 27',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+27.jpg',
 		},
 		{
 			lat: '11.51438',
 			lng: '79.62252',
-			img_href: 'https://lh6.googleusercontent.com/proxy/of6XOS6vav3gIDbJmvR9trHnuu8f-CmsNSbYoyOTylxIbUL4LMrPRCR1CdG2iIQ',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 28',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+28.jpg',
 		},
 		{
 			lat: '11.5142',
 			lng: '79.6224',
-			img_href: 'https://lh6.googleusercontent.com/proxy/vGbO2fMZByAAbJGvJYAcMb_P9MYkOuE2K4cHNl7ymEkfykZxdV2xs8tjtQcWB_c',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 29',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+29.jpg',
 		},
 		{
 			lat: '11.5146',
 			lng: '79.62257',
-			img_href: 'https://lh6.googleusercontent.com/proxy/V1IkGxOLl7hik7HuO44hOBJwcribwTM8fUDTAqPCU8E930ji6kLuoibpGWajwE0',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 30',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+30.jpg',
 		},
 		{
 			lat: '11.51407',
 			lng: '79.62245',
-			img_href: 'https://lh6.googleusercontent.com/proxy/pPIrbUC9cvrTGJQTV0F_G382uOPKZuCaWAfLsdNLXXKFRvUXAvNEGGIzqvrYg5Y',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 31',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+31.jpg',
 		},
 		{
 			lat: '11.51395',
 			lng: '79.62233',
-			img_href: 'https://lh6.googleusercontent.com/proxy/r6e0TIy1AzWgkyeY3ysXPtNkj2n9i-VIWrbal6pSIJiIB1ETGKgn1BB3masuSbU',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 32',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+32.jpg',
 		},
 		{
 			lat: '11.514',
 			lng: '79.62282',
-			img_href: 'https://lh6.googleusercontent.com/proxy/Zdi0Lz-_vQe3uui1amlJ2pneNU2oELS1BTEtwD9-NO8WkXjxOMBWC88G5Un2QxM',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 33',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+33.jpg',
 		},
 		{
 			lat: '11.51367',
 			lng: '79.62303',
-			img_href: 'https://lh6.googleusercontent.com/proxy/yOWWSRe3Fldd9aAIcIiuQ-Ra7ZVmP5Gz0TVpK27Lj_DG-KTHIUeZ6JNQzK_eDso',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 34',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+34.jpg',
 		},
 		{
 			lat: '11.4753',
 			lng: '79.58257',
-			img_href: 'https://lh6.googleusercontent.com/proxy/o-2-f0obgz19ZmwqoSWZcpWuh_D2QiMR9PS6hfDKebmYpJCyJsPzNvhWuBsawDc',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 35',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+35.jpg',
 		},
 		{
 			lat: '11.51473',
 			lng: '79.61545',
-			img_href: 'https://lh6.googleusercontent.com/proxy/nNF5eJf36q3MtnYnT9e8xgt-ZtKZuElTin86JX7bUXfNC_X3ar5IKuyyPk84uoc',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 36',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+36.jpg',
 		},
 		{
 			lat: '11.51538',
 			lng: '79.61602',
-			img_href: 'https://lh6.googleusercontent.com/proxy/IgdHHHLvY4l2O41I2By3EbwupJmLJt4zWjLvzM-DYco2tHo-zuZXLYwn2KwYPaI',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 37',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+37.jpg',
 		},
 		{
 			lat: '11.5148',
 			lng: '79.61535',
-			img_href: 'https://lh6.googleusercontent.com/proxy/4Z39RA77XiYqJEOoqJXq11oFxR2v1psBwtx6Twg9RMzYKy1NjA4r4A0grUhnlrA',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 38',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+38.jpg',
 		},
 		{
 			lat: '11.5148',
 			lng: '79.61482',
-			img_href: 'https://lh6.googleusercontent.com/proxy/4or40Gj82w-BwYfzhyH0Mfh8DNtMXOR28eAE5EfYv2MCqXiowUdcSHapRJeRT1Q',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 39',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+39.jpg',
 		},
 		{
 			lat: '11.51515',
 			lng: '79.6148',
-			img_href: 'https://lh6.googleusercontent.com/proxy/u_G3CDCwMj-wy3AqUgJLGPamMAfztWT8uoumQpPWATmB0WNW1x07SxCkKLjfItI',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 40',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+40.jpg',
 		},
 		{
 			lat: '11.51453',
 			lng: '79.61492',
-			img_href: 'https://lh6.googleusercontent.com/proxy/27zgWk4HzUkqHXhcYmT6ayyWNRR52BBaIR5shbF5P7WJb0h_FPJJN23Ys-HBABY',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 41',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+41.jpg',
 		},
 		{
 			lat: '11.5144',
 			lng: '79.61353',
-			img_href: 'https://lh6.googleusercontent.com/proxy/e_-FKA-nBXfYdVVBU1610RZQvyXzsIyjjUrR6oebu6GXeeJZARSBN0M0S7RXDt4',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 42',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+42.jpg',
 		},
 		{
 			lat: '11.51427',
 			lng: '79.61203',
+			name: 'Kumudimoolai 43',
 			img_href: '0',
-			name: 'Kumudimoolai'
 		},
 		{
 			lat: '11.51422',
 			lng: '79.61172',
-			img_href: 'https://lh6.googleusercontent.com/proxy/HlY-UpmPdeEaEY1G-HOnHGTaWgymFDmBEmc6BQenaGOjKxutgRz7KztmTWFWlzU',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 44',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+44.jpg',
 		},
 		{
 			lat: '11.51452',
 			lng: '79.61575',
-			img_href: 'https://lh6.googleusercontent.com/proxy/V7c64JpsNbheID7GIMLDLHNV16oSkwMePS16flimrET7b9z2aUyCUwvAGA6uS4U',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 45',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+45.jpg',
 		},
 		{
 			lat: '11.51432',
 			lng: '79.61617',
-			img_href: 'https://lh6.googleusercontent.com/proxy/Ja4Fu6Q9Su3WZ37Fn7-kxKnd7rclZcLI7ehKQkIreoU0yxU5ZVstxutrbQ-8fDc',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 46',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+46.jpg',
 		},
 		{
 			lat: '11.51472',
 			lng: '79.61712',
-			img_href: 'https://lh6.googleusercontent.com/proxy/56uo4M70tK61TGgGrGfR7wpak7oTcfbQitVIqm_CcAWAQn3CPatgXncbSwEiTPo',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 47',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+47.jpg',
 		},
 		{
 			lat: '11.5147',
 			lng: '79.61603',
+			name: 'Kumudimoolai 48',
 			img_href: '0',
-			name: 'Kumudimoolai'
 		},
 		{
 			lat: '11.5147',
 			lng: '79.61603',
-			img_href: 'https://lh6.googleusercontent.com/proxy/qMPYFuLj4e2S-GIq7JsDNU8ZjWvqGnZ27Lg7_cHEVcewzwV1tGsKZcHUtSgvyWM',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 49',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+49.jpg',
 		},
 		{
 			lat: '11.51343',
 			lng: '79.62053',
-			img_href: 'https://lh6.googleusercontent.com/proxy/MPfKBzvKYa7EeUrEmncQZSbF5Ej2k0NzvFuUACQUeOd0xkVjk-43dBqfeo2i21c',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 50',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+50.jpg',
 		},
 		{
 			lat: '11.51342',
 			lng: '79.6205',
-			img_href: 'https://lh6.googleusercontent.com/proxy/K_tQQ-4L6slGBakJffbgfU1W8H1BTlYR17X0wgNoFmlb7Wr-Tb1ZcK-PTActcVc',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 51',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+51.jpg',
 		},
 		{
 			lat: '11.51302',
 			lng: '79.621',
-			img_href: 'https://lh6.googleusercontent.com/proxy/z1vxPq9GU4ox_Z2tm7QJtwmvknS5ehEO1fCBG5qhgtHQ7ggn9B3Fi_g8LkUIbV8',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 52',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+52.jpg',
 		},
 		{
 			lat: '11.51382',
 			lng: '79.6214',
-			img_href: 'https://lh6.googleusercontent.com/proxy/cHgb3iHj8htUWAHVwlsZS2TmtJsFH6b5zPQ8xj5dUb1FGIBS30OKbIjkhjtfpyA',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 53',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+53.jpg',
 		},
 		{
 			lat: '11.51382',
 			lng: '79.62123',
-			img_href: 'https://lh6.googleusercontent.com/proxy/khIhw1_8OOPOAgNJBy6_O6WTkWe2vapvOiArPLfW_dpRSVuJ-i9n_rbGGfVurhE',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 54',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+54.jpg',
 		},
 		{
 			lat: '11.51408',
 			lng: '79.62127',
+			name: 'Kumudimoolai 55',
 			img_href: '0',
-			name: 'Kumudimoolai'
 		},
 		{
 			lat: '11.51393',
 			lng: '79.62118',
-			img_href: 'https://lh6.googleusercontent.com/proxy/bgVYYxNfi04nVIqxKz9N2JQaOoWOg52_tOfyt-LYVaqjV2Jho2TGwKK4vi1LDaM',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 56',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+56.jpg',
 		},
 		{
 			lat: '11.51405',
 			lng: '79.62075',
-			img_href: 'https://lh6.googleusercontent.com/proxy/DVewPxRYsKgIHrJPy7mlyuzSCltJCPKvCqZLx1X8qhSp-_iIj2bajsInf-xcxko',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 57',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+57.jpg',
 		},
 		{
 			lat: '11.5141',
 			lng: '79.62193',
-			img_href: 'https://lh6.googleusercontent.com/proxy/788pVdFNZ1zUbDeGM25Y_Zwnkk8gmnC0n_NR3zFoE2GVy1yFp2tzBqnMFywMajY',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 58',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+58.jpg',
 		},
 		{
 			lat: '11.51452',
 			lng: '79.62208',
-			img_href: 'https://lh6.googleusercontent.com/proxy/IUPLJ0t_k5UQJdOr4mMjpDKCKAEki2JfuFi0dHOpi3uRAaFxp68isnvV05V-PQw',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 59',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+59.jpg',
 		},
 		{
 			lat: '11.5136',
 			lng: '79.61625',
-			img_href: 'https://lh6.googleusercontent.com/proxy/czCiw4miWf7l7Ll-81bNAJfG2SvvJ-e3n0lgPUu-BFXxLshQCDo51bMrJZ1lGMc',
-			name: 'Kumudimoolai'
+			name: 'Kumudimoolai 60',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Kumudimoolai+60.jpg',
 		},
 	];

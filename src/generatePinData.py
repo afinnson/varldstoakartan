@@ -5,15 +5,33 @@ from devKey import DEVELOPER_KEY
 SPREADSHEET_ID = '1T1AFJ1kQPjp2BAxSrQyyr78ZogArOz6Q3IgqhNF4drI'
 # RANGE_NAME = 'Blad1!A2:E'
 RANGE_NAME = 'NewFormat!A1:G'
-OUTPUT_FILE = 'pin_data_test_new.js'
+OUTPUT_FILE = 'pin_data.js'
+URL_BASE = r'https://irp.cdn-website.com/0aecca97/dms3rep/multi/'
+FILE_EXTENSION = ".jpg"
 
-def rowToString(row, fieldNames):
-    # print(row)
-    # print(fieldNames)
+TRANSLATIONS = {
+    "Latitude": "lat",
+    "Longitude" : "lng",
+    "ImageSource": "img_href",
+    "Code": "name"
+}
+
+def rowToString(row, fieldNames, urlFromKey=False):
     assert len(row) == len(fieldNames), "{} != {}".format(len(row), len(fieldNames))
+
+    keyIndex = fieldNames.index('Code')
+    urlIndex = fieldNames.index('ImageSource')
+
     out = "\t\t{\n"
     for i, v in enumerate(row):
-        out += "\t\t\t" + fieldNames[i] + ": '" + v + "',\n"
+        try:
+            fieldName = TRANSLATIONS[fieldNames[i]]
+            print(fieldName)
+        except KeyError:
+            continue
+        if i == urlIndex and urlFromKey and v != '0':
+            v = URL_BASE + row[keyIndex].replace(" ", "+") + FILE_EXTENSION
+        out += "\t\t\t" + fieldName + ": '" + v + "',\n"
     out += "\t\t},\n"
 
     return out
@@ -35,13 +53,11 @@ def getSheetsData(spreadsheetId, rangeName, developerKey):
 
 def writePinDataToFile(sheetsData, fileName):
     fieldNames = sheetsData[0]
-
-    # remove header items
-    sheetsData = sheetsData[1:]
+    sheetsData = sheetsData[1:] # remove header
 
     outStr = "export const pinData = [\n"
     for row in sheetsData:
-        outStr += rowToString(row, fieldNames)
+        outStr += rowToString(row, fieldNames, urlFromKey=True)
     outStr += "\t];"
 
     # print(outStr)
