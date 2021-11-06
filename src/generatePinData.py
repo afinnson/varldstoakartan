@@ -7,32 +7,35 @@ SPREADSHEET_ID = '1T1AFJ1kQPjp2BAxSrQyyr78ZogArOz6Q3IgqhNF4drI'
 RANGE_NAME = 'NewFormat!A1:G'
 OUTPUT_FILE = 'pin_data.js'
 URL_BASE = r'https://irp.cdn-website.com/0aecca97/dms3rep/multi/'
-FILE_EXTENSION = ".jpg"
 
 TRANSLATIONS = {
     "Latitude": "lat",
     "Longitude" : "lng",
-    "ImageSource": "img_href",
+    "FileExtension": "img_href",
     "Code": "name"
 }
 
-def rowToString(row, fieldNames, urlFromKey=False):
+def rowToString(row, fieldNames):
     assert len(row) == len(fieldNames), "{} != {}".format(len(row), len(fieldNames))
 
     keyIndex = fieldNames.index('Code')
-    urlIndex = fieldNames.index('ImageSource')
+    fileExtensionIndex = fieldNames.index('FileExtension')
+    # urlIndex = fieldNames.index('ImageSource')
 
     out = "\t\t{\n"
     for i, v in enumerate(row):
         try:
             fieldName = TRANSLATIONS[fieldNames[i]]
-            print(fieldName)
+            # print(fieldName)
         except KeyError:
             continue
-        if i == urlIndex and urlFromKey and v != '0':
-            v = URL_BASE + row[keyIndex].replace(" ", "+") + FILE_EXTENSION
+        if i == fileExtensionIndex and v != '0':
+            v = URL_BASE + row[keyIndex].replace(" ", "+") + ".{}".format(v)
         out += "\t\t\t" + fieldName + ": '" + v + "',\n"
     out += "\t\t},\n"
+
+    # replace MINUS SIGN with HYPHEN
+    out = out.replace('\u2212', '-')
 
     return out
 
@@ -57,7 +60,7 @@ def writePinDataToFile(sheetsData, fileName):
 
     outStr = "export const pinData = [\n"
     for row in sheetsData:
-        outStr += rowToString(row, fieldNames, urlFromKey=True)
+        outStr += rowToString(row, fieldNames)
     outStr += "\t];"
 
     # print(outStr)

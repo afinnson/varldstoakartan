@@ -1,2 +1,3 @@
 node_modules
 src/devKey.py
+src/__pycache__
