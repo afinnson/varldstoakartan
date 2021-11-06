@@ -1475,4 +1475,10 @@ export const pinData = [
 			name: 'Sepieti 7',
 			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Sepieti+7.png',
 		},
+		{
+			lat: '42.4879325',
+			lng: '78.3865372',
+			name: 'Issyk-Kul-1',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Issyk-Kul-1.jpg',
+		},
 	];
