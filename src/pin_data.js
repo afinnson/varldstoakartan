@@ -1433,4 +1433,46 @@ export const pinData = [
 			name: 'ACH-36',
 			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/ACH-36.png',
 		},
+		{
+			lat: '42.24715',
+			lng: '42.244335',
+			name: 'Sepieti 1',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Sepieti+1.png',
+		},
+		{
+			lat: '42.276897',
+			lng: '42.243748',
+			name: 'Sepieti 2',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Sepieti+2.png',
+		},
+		{
+			lat: '42.286053',
+			lng: '42.243382',
+			name: 'Sepieti 3',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Sepieti+3.png',
+		},
+		{
+			lat: '42.286026',
+			lng: '42.242867',
+			name: 'Sepieti 4',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Sepieti+4.png',
+		},
+		{
+			lat: '42.280205',
+			lng: '42.236137',
+			name: 'Sepieti 5',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Sepieti+5.png',
+		},
+		{
+			lat: '42.279461',
+			lng: '42.235668',
+			name: 'Sepieti 6',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Sepieti+6.png',
+		},
+		{
+			lat: '42.27956',
+			lng: '42.235405',
+			name: 'Sepieti 7',
+			img_href: 'https://irp.cdn-website.com/0aecca97/dms3rep/multi/Sepieti+7.png',
+		},
 	];
